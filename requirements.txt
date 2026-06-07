@@ -1,0 +1,12 @@
+huggingface-hub==0.34.6
+groq==1.4.0
+python-dotenv==1.2.2
+langchain==0.3.27
+langchain-core==0.3.74
+langgraph==0.6.7
+langgraph-checkpoint==2.1.2
+langgraph-prebuilt==0.6.5
+fpdf2==2.8.7
+matplotlib==3.8.2
+gradio==6.16.0
+duckduckgo-search==8.1.1
