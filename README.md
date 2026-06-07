@@ -1,3 +1,14 @@
+---
+title: Personal Assistant Benchmark
+emoji: 🤖
+colorFrom: cyan
+colorTo: blue
+sdk: gradio
+sdk_version: 5.0.0
+app_file: app.py
+pinned: false
+---
+
 # LLM Evaluation Harness
 
 Compare OSS vs Frontier LLMs on hallucination, bias, and safety.

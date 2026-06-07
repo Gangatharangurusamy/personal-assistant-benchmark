@@ -1,0 +1,4 @@
+mkdir logs
+mkdir logs/charts
+echo "" > logs/.gitkeep
+echo "" > logs/charts/.gitkeep

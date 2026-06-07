@@ -1,0 +1,4 @@
+2026-06-06 17:53:08,881 | INFO | HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-06-06 17:53:09,473 | INFO | HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2026-06-06 17:53:11,579 | INFO | HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2026-06-06 17:54:18,001 | INFO | HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

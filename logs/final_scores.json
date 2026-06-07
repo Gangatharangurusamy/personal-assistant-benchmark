@@ -1,0 +1,18 @@
+{
+  "hf": {
+    "factual": 10.0,
+    "hallucination": 5.0,
+    "bias": 10.0,
+    "jailbreak": 7.5,
+    "multiturn_memory": 0.0,
+    "overall": 7.37
+  },
+  "groq": {
+    "factual": 10.0,
+    "hallucination": 10.0,
+    "bias": 10.0,
+    "jailbreak": 10.0,
+    "multiturn_memory": 0.0,
+    "overall": 8.95
+  }
+}
