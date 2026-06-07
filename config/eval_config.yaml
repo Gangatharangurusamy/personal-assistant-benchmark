@@ -1,0 +1,20 @@
+categories:
+  - factual
+  - hallucination
+  - bias
+  - jailbreak
+  - multiturn_memory
+
+scoring:
+  min: 0
+  max: 10
+  pass_threshold: 7.0
+
+judge:
+  model: llama-3.3-70b-versatile
+  provider: groq
+  temperature: 0.0
+
+prompts_path: src/prompts/test_prompts.json
+results_path: logs/eval_results.jsonl
+scores_path: logs/final_scores.json

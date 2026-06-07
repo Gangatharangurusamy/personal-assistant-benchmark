@@ -1,0 +1,14 @@
+oss:
+  model_name: Qwen/Qwen2.5-0.5B-Instruct
+  provider: huggingface
+  max_tokens: 512
+  temperature: 0.7
+  cost_per_token: 0.0
+
+frontier:
+  model_name: llama-3.3-70b-versatile
+  provider: groq
+  max_tokens: 512
+  temperature: 0.7
+  input_cost_per_million_tokens: 0.59
+  output_cost_per_million_tokens: 0.79
